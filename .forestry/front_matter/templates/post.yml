@@ -25,3 +25,4 @@ fields:
   label: feature_image
 pages:
 - content/contact-us.md
+- content/donate.md
