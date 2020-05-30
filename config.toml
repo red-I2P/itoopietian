@@ -14,20 +14,15 @@ name = "About"
 url = "/about/"
 weight = 10
 [[menu.main]]
-identifier = "image-credit"
-name = "Image Credit"
-url = "/image-credit/"
+identifier = "contact-us"
+name = "Contact Us"
+url = "/contact-us/"
 weight = 20
 [[menu.main]]
 identifier = "github-repo-theme"
 name = "Get Theme on Github"
 url = "https://github.com/jonathanjanssens/hugo-casper3"
 weight = 30
-[[menu.main]]
-identifier = "author"
-name = "Author Homepage"
-url = "https://jonathanjanssens.com"
-weight = 40
 [params]
 description = "An I2P Community Paper"
 facebook = ""
