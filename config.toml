@@ -8,11 +8,26 @@ languageCode = "en"
 paginate = 3
 theme = "casper3"
 title = "The Itoopietian"
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 10
+[[menu.main]]
+identifier = "contact-us"
+name = "Contact Us"
+url = "/contact-us/"
+weight = 20
+[[menu.main]]
+identifier = "donate"
+name = "Donate"
+url = "/donate/"
+weight = 30
 [params]
 description = "An I2P Community Paper"
 facebook = ""
 github = ""
-logo = "/images/ghost-transparent.png"
+logo = "/images/itoopietian.png"
 mainSections = ["post"]
 twitter = ""
 [privacy.instagram]
