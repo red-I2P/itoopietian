@@ -31,17 +31,17 @@ logo = "/images/ghost-transparent.png"
 mainSections = ["post"]
 twitter = ""
 [privacy.instagram]
-disabled = false
+disabled = true
 simple = true
 [privacy.twitter]
-disabled = false
+disabled = true
 enableDNT = true
 simple = true
 [privacy.vimeo]
-disabled = false
+disabled = true
 simple = true
 [privacy.youtube]
-disabled = false
+disabled = true
 privacyEnhanced = true
 [services.instagram]
 disableInlineCSS = true
