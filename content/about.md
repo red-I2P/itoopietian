@@ -1,29 +1,20 @@
 +++
-title = "About"
-description = "Hugo, the world’s fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us","about-hugo","contact"]
-author = "Hugo Authors"
+aliases = ["about-us", "about-hugo", "contact"]
+author = "Red"
+date = 2020-05-30T04:00:00Z
+description = "A paper for the I2P community."
 feature_image = "/images/hugo.png"
+title = "About"
+
 +++
+_The Itoopietian_ is an I2P community paper designed to bring you the latest news on the development of the I2P network and it's community.
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+_The Itoopietian_ was first conceptualized as a potential I2P community magazine in 2019 by current _Itoopietian_ maintainer and co-founder [_Red_](http://red.i2p) and was later conceived of as a website by I2P Team Member and eepsite co-founder _Sadie_ (@yrb1rd on Twitter).
 
-Hugo makes use of a variety of open source projects including:
+The goal is to provide the average I2P user with information on the latest development news, eepsites, community events and topics of interest related to the I2P network and related technologies. It also aims to bridge the gap between the developer and user community on the network, and to explain recent I2P features in ways understandable to the average user.
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+At present _The Itoopietian_ is released as periodical editions, collections of articles, rather than as mere individual articles. Editions usually contain sections such as _Meet Your Maintainer_, _Eepsite of the Month_, _I2P Crossword_, _Development Updates_, and so much more!
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+In order to bring the latest I2P news to other parts of the censorship resistant internet and the free/ open-source community we have also mirrored this site on Tor, Freenet, and ZeroNet. We try to keep these mirrors updated when possible.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
-
-
-
+All articles are in the public domain.
