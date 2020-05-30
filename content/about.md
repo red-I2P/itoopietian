@@ -5,6 +5,9 @@ date = 2020-05-30T04:00:00Z
 description = "A paper for the I2P community."
 feature_image = "/images/hugo.png"
 title = "About"
+[menu.main]
+identifier = "about"
+weight = 1
 
 +++
 _The Itoopietian_ is an I2P community paper designed to bring you the latest news on the development of the I2P network and it's community.

@@ -9,20 +9,20 @@ paginate = 3
 theme = "casper3"
 title = "The Itoopietian"
 [[menu.main]]
-identifier = "about"
-name = "About"
-url = "/about/"
-weight = 10
+identifier = "author"
+name = "Author Homepage"
+url = "https://jonathanjanssens.com"
+weight = 4
 [[menu.main]]
-identifier = "contact-us"
-name = "Contact Us"
-url = "/contact-us/"
-weight = 20
+identifier = "github-repo-theme"
+name = "Get Theme on Github"
+url = "https://github.com/jonathanjanssens/hugo-casper3"
+weight = 3
 [[menu.main]]
-identifier = "donate"
-name = "Donate"
-url = "/donate/"
-weight = 30
+identifier = "image-credit"
+name = "Image Credit"
+url = "/image-credit/"
+weight = 2
 [params]
 description = "An I2P Community Paper"
 facebook = ""
