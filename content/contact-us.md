@@ -5,6 +5,9 @@ description = ""
 feature_image = ""
 tags = []
 title = "Contact Us"
+[menu.main]
+name = "Contact"
+weight = 2
 
 +++
 For article submissions and general inquiries please contact us at:

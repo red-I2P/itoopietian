@@ -5,6 +5,8 @@ description = ""
 feature_image = ""
 tags = []
 title = "Donate"
+[menu.main]
+weight = 3
 
 +++
 _The Itoopietian_ is currently seeking VPS hosting options for high bandwidth/ reliability.
