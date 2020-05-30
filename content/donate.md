@@ -2,7 +2,6 @@
 author = "Hugo Authors"
 date = 2020-05-30T08:27:44Z
 description = ""
-draft = true
 feature_image = ""
 tags = []
 title = "Donate"
